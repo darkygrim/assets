@@ -1,0 +1,68 @@
+@font-face {
+    font-family: "Cardinal";
+    src:
+        url("https://cdn.jsdelivr.net/gh/darkygrim/assets@main/fonts/cardinal.woff2") format("woff2"),
+        url("https://cdn.jsdelivr.net/gh/darkygrim/assets@main/fonts/cardinal.woff") format("woff");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Cardinal Alternate";
+    src:
+        url("https://cdn.jsdelivr.net/gh/darkygrim/assets@main/fonts/cardinal_alternate.woff2") format("woff2"),
+        url("https://cdn.jsdelivr.net/gh/darkygrim/assets@main/fonts/cardinal_alternate.woff") format("woff");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "First Order Condensed";
+    src:
+        url("https://cdn.jsdelivr.net/gh/darkygrim/assets@main/fonts/first-order_condensed.woff2") format("woff2"),
+        url("https://cdn.jsdelivr.net/gh/darkygrim/assets@main/fonts/first-order_condensed.woff") format("woff");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Middle Ages";
+    src:
+        url("https://cdn.jsdelivr.net/gh/darkygrim/assets@main/fonts/middle-ages.woff2") format("woff2"),
+        url("https://cdn.jsdelivr.net/gh/darkygrim/assets@main/fonts/middle-ages.woff") format("woff");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Middle Ages Deco";
+    src:
+        url("https://cdn.jsdelivr.net/gh/darkygrim/assets@main/fonts/middle-ages_deco.woff2") format("woff2"),
+        url("https://cdn.jsdelivr.net/gh/darkygrim/assets@main/fonts/middle-ages_deco.woff") format("woff");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Poem Letters";
+    src:
+        url("https://cdn.jsdelivr.net/gh/darkygrim/assets@main/fonts/poem-letters.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Prince Valiant";
+    src:
+        url("https://cdn.jsdelivr.net/gh/darkygrim/assets@main/fonts/prince-valiant.woff2") format("woff2"),
+        url("https://cdn.jsdelivr.net/gh/darkygrim/assets@main/fonts/prince-valiant.woff") format("woff");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
